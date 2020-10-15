@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">DigitAula</string>
+    <string name="launcher_name" translatable="false">@string/app_name</string>
+    <string name="activity_name" translatable="false">@string/launcher_name</string>
+
+
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+
+    <string name="search">search</string>
+
+
+    <string name="register">Register</string>
+    <string name="register_long">Register and enter the fantastic world of GamePlate!</string>
+    <string name="register_later">Register later</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login">Login</string>
+
+    <string name="insert_password_again">Insert password again</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="email_not_valid">Not valid email</string>
+    <string name="required_field">Required field.</string>
+    <string name="not_matching_passwords">Password 1 and 2 don\'t match</string>
+    <string name="at_least_6_chars">Insert at least 6 characters.</string>
+
+    <string name="unknown_error">Unknown error</string>
+    <string name="wrong_credentials">Wrong credentials</string>
+    <string name="user_not_exist">Not existing user</string>
+    <string name="account_disabled">account disabled</string>
+    <string name="weak_password"><![CDATA[weak password (< 6 characters)]]></string>
+    <string name="email_already_registered">Already registered email</string>
+
+    <string name="loading">Loading…</string>
+
+    <string name="error_try_later">Error. Try later</string>
+    <string name="retry">retry</string>
+    <string name="auth_failed">Authentication failed.</string>
+
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="want_reset_password_email_question">Do you want us to send a mail to reset your password?</string>
+    <string name="insert_account_email">Insert the email of your account</string>
+    <string name="send_email">Send email</string>
+    <string name="email_sent_to">Email sent to&#160;</string>
+    <string name="error_mail_not_sent">Error. Email not sent</string>
+
+    <string name="error_location_not_found">Error. The location of the device was not found.</string>
+    <string name="error_unknown">Error.</string>
+    <string name="error_network">An error has occurred.\nPlease check your internet connection and try again later.</string>
+    <string name="error_network_short">Error.\nCheck your internet connection.</string>
+
+    <string name="hint_searchview">Find places, restaurants, games</string>
+    <string name="show_more">Show more</string>
+
+
+</resources>

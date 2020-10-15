@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289689609242",
+    "firebase_url": "https://uppercase---project.firebaseio.com",
+    "project_id": "uppercase---project",
+    "storage_bucket": "uppercase---project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289689609242:android:1c59ce78bd4b7c7d619da3",
+        "android_client_info": {
+          "package_name": "it.uppercase.hackathon2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289689609242-ttp5et21go16d2vi69uncr2k3c4rf5mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRQiRjYcaNZYH_8Tz2eorhITp47os6IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289689609242-ttp5et21go16d2vi69uncr2k3c4rf5mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

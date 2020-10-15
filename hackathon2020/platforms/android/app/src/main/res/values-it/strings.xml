@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="search">cerca</string>
+
+    <string name="register">Registrati</string>
+    <string name="register_long">Registrati per entrare nel fantastico mondo di GamePlate!</string>
+    <string name="register_later">Registrami più tardi</string>
+    <string name="already_have_account">Hai già un account?</string>
+    <string name="login">Login</string>
+
+    <string name="insert_password_again">Reinserisci la password</string>
+    <string name="forgot_password">Hai dimenticato la password?</string>
+    <string name="welcome">Benvenuto</string>
+
+    <string name="email_not_valid">Email non valida.</string>
+    <string name="required_field">Campo obbligatorio.</string>
+    <string name="not_matching_passwords">Le due password non coincidono</string>
+    <string name="at_least_6_chars">Inserire almeno 6 caratteri.</string>
+
+    <string name="unknown_error">Errore sconosciuto</string>
+    <string name="wrong_credentials">Credenziali errate</string>
+    <string name="user_not_exist">Utente inesistente</string>
+    <string name="account_disabled">Account disabilitato</string>
+    <string name="weak_password"><![CDATA[password debole (< 6 caratteri)]]></string>
+    <string name="email_already_registered">email già registrata</string>
+
+    <string name="loading">Caricamento…</string>
+
+    <string name="error_try_later">Errore. Riprova più tardi</string>
+    <string name="retry">riprova</string>
+    <string name="auth_failed">Autenticazione non riuscita.</string>
+
+
+    <string name="cancel">Annulla</string>
+    <string name="confirm">Conferma</string>
+    <string name="want_reset_password_email_question">Vuoi ricevere la mail per il reset della password?</string>
+    <string name="insert_account_email">Inserisci la mail del tuo account</string>
+    <string name="send_email">Invia email</string>
+    <string name="email_sent_to">Email inviata a&#160;</string>
+    <string name="error_mail_not_sent">Errore. Email non inviata.</string>
+
+    <string name="error_location_not_found">Errore. La posizione del dispositivo non è stata individuata.</string>
+    <string name="error_unknown">Errore.</string>
+    <string name="error_network">Si è verificato un errore.\nControlla la tua connessione ad internet e riprova in seguito.</string>
+    <string name="error_network_short">Errore.\nControlla la tua connessione ad internet.</string>
+
+
+    <string name="hint_searchview">Cerca luoghi, ristoranti, giochi</string>
+    <string name="show_more">Mostra altri</string>
+
+</resources>
